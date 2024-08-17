@@ -31,25 +31,19 @@
 </head>
 <body>
     <div class="video-container">
-        <iframe id="videoFrame" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe id="videoFrame" src="https://www.youtube.com/embed/2h94quQ99Ko?autoplay=1&modestbranding=1&rel=0&showinfo=0&controls=1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
     <script>
-        // Funkcija za uzimanje ID-a videa iz naziva fajla
-        function getVideoIdFromFilename() {
-            // Uzmi celu putanju fajla
-            var path = window.location.pathname;
-            // Uzmi ime fajla bez ekstenzije
-            var filename = path.substring(path.lastIndexOf('/') + 1, path.lastIndexOf('.'));
-            return filename;
-        }
-
-        // Postavi video URL na osnovu ID-a iz imena fajla
-        function setVideo() {
-            var videoId = getVideoIdFromFilename();
+        // Ova funkcija može da se koristi za promenu video ID-a dinamički ako je potrebno
+        function setVideo(videoId) {
             var iframe = document.getElementById('videoFrame');
             iframe.src = "https://www.youtube.com/embed/" + videoId + "?autoplay=1&modestbranding=1&rel=0&showinfo=0&controls=1";
         }
+    </script>
+</body>
+</html>
+
 
         // Pozovi funkciju da postavi video kada se stranica učita
         setVideo();
