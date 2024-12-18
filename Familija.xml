@@ -3,33 +3,41 @@
   <movie>
     <title>Salimovic</title>
     <imageUrl>https://img.youtube.com/vi/dWUXfvk4gfM/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=dWUXfvk4gfM</videoUrl>
   </movie>
   <movie>
     <title>Aleksandra 8 rodjendan</title>
     <imageUrl>https://img.youtube.com/vi/-zy0wd8ZSHQ/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=-zy0wd8ZSHQ</videoUrl>
   </movie>
   <movie>
     <title>Ismet Svadba</title>
     <imageUrl>https://img.youtube.com/vi/ZUNcbal3TG8/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=ZUNcbal3TG8</videoUrl>
   </movie>
   <movie>
     <title>Dragan 58 rodjendan</title>
     <imageUrl>https://img.youtube.com/vi/ZIIM6AFGTmk/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=ZIIM6AFGTmk</videoUrl>
   </movie>
   <movie>
     <title>ibrahim rodjendan</title>
     <imageUrl>https://img.youtube.com/vi/_xqSCTv6VBQ/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=_xqSCTv6VBQ</videoUrl>
   </movie>
   <movie>
     <title>Dilji i Ala vencanje 27 06 2018</title>
     <imageUrl>https://img.youtube.com/vi/60TwbEA7I7U/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=60TwbEA7I7U</videoUrl>
   </movie>
   <movie>
     <title>Sead i Kalina svadba</title>
     <imageUrl>https://img.youtube.com/vi/Z3wuS2niDyc/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=Z3wuS2niDyc</videoUrl>
   </movie>
   <movie>
     <title>svadba kod bekima</title>
     <imageUrl>https://img.youtube.com/vi/V0sqx5XnKng/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=V0sqx5XnKng</videoUrl>
   </movie>
 </movies>

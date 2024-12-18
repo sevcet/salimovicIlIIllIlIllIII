@@ -3,9 +3,11 @@
   <movie>
     <title>sait 39 rodjendan</title>
     <imageUrl>https://img.youtube.com/vi/thA1AHFSl_4/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=thA1AHFSl_4</videoUrl>
   </movie>
   <movie>
     <title>Sait Ispracaj u vojsku</title>
     <imageUrl>https://img.youtube.com/vi/qgeu4_HleZY/0.jpg</imageUrl>
+    <videoUrl>https://www.youtube.com/watch?v=qgeu4_HleZY</videoUrl>
   </movie>
 </movies>
