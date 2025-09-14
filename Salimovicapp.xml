@@ -361,4 +361,213 @@
         </movie>
 
     </category>
+
+    <category name="Altana">
+        <movie>
+            <title>Altana 37 Rodjendan</title>
+            <year>1975</year>
+            <genre>Altana</genre>
+            <type>film</type>
+            <description>Altana 37 Rodjendan/description>
+            <imageUrl>https://img.youtube.com/vi/76sGocRBVcE/0.jpg</imageUrl>
+            <videoId>76sGocRBVcE</videoId>
+        </movie>
+        <movie>
+            <title>Altana 38 rodjendan</title>
+            <year>1975</year>
+            <genre>Altana</genre>
+            <type>film</type>
+            <description>Altana 38 rodjendan/description>
+            <imageUrl>https://img.youtube.com/vi/ciXm-5VUo4I/0.jpg</imageUrl>
+            <videoId>ciXm-5VUo4I</videoId>
+        </movie>
+
+    </category>
+
+    <category name="Sait">
+        <movie>
+            <title>sait 39 rodjendan</title>
+            <year>1973</year>
+            <genre>Sait</genre>
+            <type>film</type>
+            <description>sait 39 rodjendan</description>
+            <imageUrl>https://img.youtube.com/vi/thA1AHFSl_4/0.jpg</imageUrl>
+            <videoId>thA1AHFSl_4</videoId>
+        </movie>
+        <movie>
+            <title>Sait Ispracaj u vojsku</title>
+            <year>1973</year>
+            <genre>Sait</genre>
+            <type>film</type>
+            <description>Sait Ispracaj u vojsku</description>
+            <imageUrl>https://img.youtube.com/vi/qgeu4_HleZY/0.jpg</imageUrl>
+            <videoId>qgeu4_HleZY</videoId>
+        </movie>
+    </category>
+
+    <category name="Salimovic">
+        <movie>
+            <title>Vaselica 2012</title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description>Vaselica 2012</description>
+            <imageUrl>https://img.youtube.com/vi/TOR7cEDr130/0.jpg</imageUrl>
+            <videoId>TOR7cEDr130</videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+        <movie>
+            <title></title>
+            <year>9999</year>
+            <genre>Salimovic</genre>
+            <type>film</type>
+            <description></description>
+            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
+            <videoId></videoId>
+        </movie>
+    </category>
+
 </movies>
