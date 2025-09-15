@@ -645,4 +645,79 @@
         </movie>
     </category>
 
+    <category name="Sevda">
+        <movie>
+            <title>Sevda Salimovic Vlasinka Kolo</title>
+            <year>1956</year>
+            <genre>Sevda</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Vlasinka Kolo</description>
+            <imageUrl>https://img.youtube.com/vi/YgixDWWUJ14/0.jpg</imageUrl>
+            <videoId>YgixDWWUJ14</videoId>
+        </movie>
+        <movie>
+            <title>Sevda Salimovic Pirav mange kokoro</title>
+            <year>1956</year>
+            <genre>Sevda</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Pirav mange kokoro</description>
+            <imageUrl>https://img.youtube.com/vi/z4sOYP2BBPk/0.jpg</imageUrl>
+            <videoId>z4sOYP2BBPk</videoId>
+        </movie>
+        <movie>
+            <title>Sevda Salimovic Bugarka Kolo</title>
+            <year>1956</year>
+            <genre>Sevda</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Bugarka Kolo</description>
+            <imageUrl>https://img.youtube.com/vi/wCsK9HyOz0g/0.jpg</imageUrl>
+            <videoId>wCsK9HyOz0g</videoId>
+        </movie>        
+       <movie>
+            <title>Sevda Salimovic Leonardovo Kolo</title>
+            <year>1956</year>
+            <genre>Sevda</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Leonardovo Kolo</description>
+            <imageUrl>https://img.youtube.com/vi/loQtSk72wek/0.jpg</imageUrl>
+            <videoId>loQtSk72wek</videoId>
+        </movie>
+        <movie>
+            <title>Sevda Salimovic Imam ljubav ali kome da je dam</title>
+            <year>1956</year>
+            <genre>Sevda</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Imam ljubav ali kome da je dam</description>
+            <imageUrl>https://img.youtube.com/vi/H4YwOZQc2oI/0.jpg</imageUrl>
+            <videoId>H4YwOZQc2oI</videoId>
+        </movie>
+        <movie>
+            <title>Sevda Salimovic Robija</title>
+            <year>1956</year>
+            <genre>Sevda</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Robija</description>
+            <imageUrl>https://img.youtube.com/vi/3HIoGk4SFRM/0.jpg</imageUrl>
+            <videoId>3HIoGk4SFRM</videoId>
+        </movie>
+        <movie>
+            <title>Sevda Salimovic Gajde</title>
+            <year>1956</year>
+            <genre>Sevda</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Gajde</description>
+            <imageUrl>https://img.youtube.com/vi/JKVam_qrqf8/0.jpg</imageUrl>
+            <videoId>JKVam_qrqf8</videoId>
+        </movie>
+        <movie>
+            <title>Sevda Salimovic Djelem Delem</title>
+            <year>1956</year>
+            <genre>Sevda</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Djelem Delem</description>
+            <imageUrl>https://img.youtube.com/vi/ZaAst3LiGZQ/0.jpg</imageUrl>
+            <videoId>ZaAst3LiGZQ</videoId>
+        </movie>
+    </category>
+
 </movies>
