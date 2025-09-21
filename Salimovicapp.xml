@@ -297,15 +297,6 @@
             <videoId>bkosAI94GBQ</videoId>
         </movie>
         <movie>
-            <title></title>
-            <year>2005</year>
-            <genre>Leontina</genre>
-            <type>film</type>
-            <description> </description>
-            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
-            <videoId></videoId>
-        </movie>
-        <movie>
             <title>Leontina 9 rodjendan</title>
             <year>2005</year>
             <genre>Leontina</genre>
@@ -475,8 +466,8 @@
             <genre>Salimovic</genre>
             <type>film</type>
             <description>Nova godina 2012 2013 CD 1</description>
-            <imageUrl>https://img.youtube.com/vi//0.jpg</imageUrl>
-            <videoId></videoId>
+            <imageUrl>https://img.youtube.com/vi/0oGJVaZwRHM/0.jpg</imageUrl>
+            <videoId>0oGJVaZwRHM</videoId>
         </movie>
         <movie>
             <title>Nova godina 2012 2013 CD 2</title>
